@@ -4,7 +4,7 @@ export default function Topbar() {
     return (
         <div className="topbarContainer">
             <div className="topbarLeft">
-                <span className="logo">Lamasocail</span>
+                <span className="logo">Facebook Clone</span>
             </div>
             <div className="topbarCenter">
                 <div className="searchbar">
